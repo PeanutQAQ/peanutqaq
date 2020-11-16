@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PeanutQAQ/peanutqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 💬 React 资深调包侠
+* 🔭 国家级退堂鼓表演艺术家
+* 📫 正义都能迟到我多睡10分钟怎么了
+* ⚡ JS 是世界上最拉胯的语言，没有之一
