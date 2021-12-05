@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 💬 React 资深调包侠
-* 🔭 类型体操入门选手
-* 📫 正义都能迟到我多睡10分钟怎么了
+* 🔭 最近的工作：前端工程化
+* 🌱 类型体操入门选手
+* 💬 React Hooks 重度使用选手
+* 📫 wuchaoqiang1996@gmail.com
+* ⚡ specialized solution but generic foundation.
