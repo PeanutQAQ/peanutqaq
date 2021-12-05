@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 * 💬 React Hooks 重度使用选手
 * 📫 wuchaoqiang1996@gmail.com
 * ⚡ specialized solution but generic foundation.
+* 😄 我写的一些 npx 脚本：https://gist.github.com/PeanutQAQ
