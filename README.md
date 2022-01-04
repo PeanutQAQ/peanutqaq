@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 * 🔭 最近的工作：前端工程化
 * 🌱 类型体操入门选手
-* 💬 React Hooks 重度使用选手
 * 📫 wuchaoqiang1996@gmail.com
 * ⚡ specialized solution but generic foundation.
-* 😄 [我写的一些 npx 脚本](https://gist.github.com/PeanutQAQ)
+* 😄 [我写的一些脚本&工具](https://gist.github.com/PeanutQAQ)
