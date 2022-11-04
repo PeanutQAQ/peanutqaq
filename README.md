@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🔭 最近的工作：前端工程化
-* 🌱 类型体操入门选手
+* 🔭 I’m currently working on nodejs
+* 🌱 I’m currently learning rust 😭
 * 📫 wuchaoqiang1996@gmail.com
 * ⚡ specialized solution but generic foundation.
-* 😄 [我写的一些脚本&工具](https://gist.github.com/PeanutQAQ)
+* 😄 some little gist that i make -> (https://gist.github.com/PeanutQAQ)
