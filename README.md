@@ -1,3 +1,2 @@
 * React API Package Guru
-* Swear to write my own frontend component library 😭
 * Learn nodejs & rust ing...
